@@ -1,0 +1,6 @@
+database:
+  hostname: localhost
+  port: 5432
+  username: alertman
+  password: alertmanpw
+  dbname: alertman
